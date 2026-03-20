@@ -1,4 +1,4 @@
-# Autofix Plan
+# Autofix Notes
 
 ```json
 {
