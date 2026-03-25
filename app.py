@@ -1,2 +1,2 @@
-def  b):
+def b():
     return a + b
